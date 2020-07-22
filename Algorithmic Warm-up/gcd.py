@@ -1,5 +1,5 @@
 '''
-Given two integers ?? and ??, find their greatest common divisor
+Given two integers a and b, find their greatest common divisor
 
 Sample input: 10,100
 Output: 10
